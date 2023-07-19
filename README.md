@@ -4,7 +4,8 @@ This repository contains the **PsychoPy** script and other relevant files to rep
 
 Two subjects perform this task **simultaneously**:
 
-![image](https://github.com/movivi/EEGHyperscanningTask/assets/46511747/11e6fdda-4222-4101-a5b5-cb3ea4f4ab49)
+![image](https://github.com/movivi/EEGHyperscanningTask/assets/46511747/bbe0b3e0-644b-457b-8fda-ca693a3c43f3)
+
 
 
 
