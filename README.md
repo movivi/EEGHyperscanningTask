@@ -1,6 +1,6 @@
 # EEGHyperscanningTask
 
-This repository contains the **PsychoPy** script and other relevant files to reproduce the old-new memory recognition task
+This repository contains the **PsychoPy** script and other relevant files to reproduce the Old-New Memory Recognition Task
 
 Two subjects perform this task **simultaneously**:
 
